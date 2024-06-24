@@ -7,6 +7,7 @@ createApp( {
     data() {   
         return {
             message: 'This is my first title with Vue, i am really scared!!!',
+            imgSrc: 'https://www.positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png'
         };
     }
 }).mount('#container');  
