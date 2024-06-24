@@ -6,7 +6,7 @@ createApp( {
     //tutti i dati della applicazione
     data() {   
         return {
-            message: 'This is my first title with Vue, i am really scared!!!'
-        }
+            message: 'This is my first title with Vue, i am really scared!!!',
+        };
     }
-}).mount('#container')  
+}).mount('#container');  
